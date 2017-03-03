@@ -11,11 +11,11 @@ Researchers studied 30 subjects conducting six activities in training and test c
 
 Using decompressed datasets in the zipfile, I created one R script called run_analysis.R that does the following:
 
-*Merged the training and the test sets to create one data set.
-*Extracted only the measurements on the mean and standard deviation for each measurement.
-*Used descriptive activity names to name the activities in the data set
-*Appropriately labelled the data set with descriptive variable names.
-*From the data set in step 4, created a second, independent tidy data set with the average of each variable for each activity and each subject.
+Task 1: Merged the training and the test sets to create one data set.
+Task 2: Extracted only the measurements on the mean and standard deviation for each measurement.
+Task 3: Used descriptive activity names to name the activities in the data set
+Taks 4: ppropriately labelled the data set with descriptive variable names.
+Task 5: From the data set in step 4, created a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 --------------------------------------
 Following instructions from ReadMe.md from original dataset, I acknoledge the following people and their work in providing and sharing the dataset.
